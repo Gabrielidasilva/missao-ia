@@ -6,7 +6,7 @@
     --fonte-texto: 'Lobster two';
     --cor-principal:#3498db;
     --cor-secundaria: #2ecc71;
-    --cor-destaque:#e74c3c;
+    --cor-destaque:#060339;
     --cor-texto:#2c3e50;
 }
 body{
@@ -36,4 +36,6 @@ button{
     color: var(--cor-texto);
     border:  none;
     border-radius: 15px;
+    padding: 15px;
+    transition: background-color 0.3s;
 }
