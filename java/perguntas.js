@@ -38,57 +38,57 @@ export const perguntas = [
     ]
 },
 {
-    enunciado:
+    enunciado:"Qual dos seguintes desafios sociais e econômicos é mais provável de ser **exacerbado** pela crescente automação e Inteligência Artificial nas próximas décadas?",
     alternativas:[
         {
-            texto:
+            texto:"Aumento significativo da desigualdade de renda e polarização social, devido à substituição de empregos de rotina e à alta valorização de habilidades tecnológicas de elite.",
             afirmacao:[
-
+                "A automação tende a criar um 'fosso de habilidades', concentrando a riqueza nos criadores de tecnologia e aumentando a disparidade salarial.",
             ],
             proxima: 3,
         },
         {
-            texto:
+            texto:"Colapso dos sistemas de previdência social devido à falta de contribuintes, resultante do envelhecimento populacional global.",
             afirmacao:[
-
+                "Embora o envelhecimento seja um desafio real, a IA e a automação, por si só, não são a causa principal da crise previdenciária, mas sim um fator que afeta a base de contribuição de maneiras complexas.",
             ],
             proxima: 4,
         }
     ]
 },
 {
-    enunciado:
+    enunciado:"A transição global para uma economia de baixo carbono (economia verde) é vista como um caminho crucial para a sustentabilidade. Qual é o **principal risco social e econômico imediato** dessa transição para as economias baseadas em combustíveis fósseis?",
     alternativas:[
         {
-            texto:
+            texto:"O aumento maciço do desemprego estrutural em regiões dependentes da extração e produção de combustíveis fósseis, sem uma requalificação de mão de obra e diversificação econômica imediatas (ativos encalhados).",
             afirmacao:[
-
+               "A rápida descarbonização pode criar 'ativos encalhados' (stranded assets) e deslocar grandes contingentes de trabalhadores em indústrias tradicionais, elevando a desigualdade regional.",
             ],
             proxima: 3,
         },
         {
-            texto:
+            texto:"A estagnação da inovação tecnológica devido à falta de capital de risco, que será direcionado majoritariamente para o setor de energias renováveis.",
             afirmacao:[
-
+                "Na verdade, a transição energética tem estimulado a inovação em diversas áreas (baterias, redes inteligentes), e não a estagnação do capital de risco.",
             ],
             proxima: 4,
         }
     ]
 },
 {
-    enunciado:
+    enunciado:"Diante do envelhecimento populacional global e do aumento do trabalho flexível/gig economy, qual é a principal reforma que os sistemas de seguridade social (como previdência e seguro-desemprego) enfrentarão no futuro?",
     alternativas:[
         {
-            texto:
+            texto:"A necessidade de desvincular o acesso aos benefícios sociais (saúde, previdência, seguro) do emprego tradicional de tempo integral e basear a contribuição em fontes de renda mais amplas.",
             afirmacao:[
-
+                "O modelo atual de seguridade social foi projetado para o emprego formal; o futuro exige a criação de 'portabilidade de benefícios' e contribuições que acompanhem o trabalhador em múltiplas formas de emprego e plataformas.",
             ],
             proxima: 3,
         },
         {
-            texto:
+            texto:"A eliminação total dos sistemas de aposentadoria por idade e a sua substituição imediata por um sistema baseado exclusivamente em poupança individual compulsória.",
             afirmacao:[
-
+                "Embora reformas sejam necessárias, a eliminação total e imediata dos pilares de solidariedade social é politicamente e socialmente insustentável na maioria dos países.",
             ],
             proxima: 4,
         }
