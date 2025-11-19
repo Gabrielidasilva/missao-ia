@@ -45,14 +45,14 @@ export const perguntas = [
             afirmacao:[
                 "A automação tende a criar um 'fosso de habilidades', concentrando a riqueza nos criadores de tecnologia e aumentando a disparidade salarial.",
             ],
-            proxima: 3,
+            proxima: 5,
         },
         {
             texto:"Colapso dos sistemas de previdência social devido à falta de contribuintes, resultante do envelhecimento populacional global.",
             afirmacao:[
                 "Embora o envelhecimento seja um desafio real, a IA e a automação, por si só, não são a causa principal da crise previdenciária, mas sim um fator que afeta a base de contribuição de maneiras complexas.",
             ],
-            proxima: 4,
+            proxima: 6,
         }
     ]
 },
@@ -64,14 +64,14 @@ export const perguntas = [
             afirmacao:[
                "A rápida descarbonização pode criar 'ativos encalhados' (stranded assets) e deslocar grandes contingentes de trabalhadores em indústrias tradicionais, elevando a desigualdade regional.",
             ],
-            proxima: 3,
+            proxima: 7,
         },
         {
             texto:"A estagnação da inovação tecnológica devido à falta de capital de risco, que será direcionado majoritariamente para o setor de energias renováveis.",
             afirmacao:[
                 "Na verdade, a transição energética tem estimulado a inovação em diversas áreas (baterias, redes inteligentes), e não a estagnação do capital de risco.",
             ],
-            proxima: 4,
+            proxima: 8,
         }
     ]
 },
@@ -83,14 +83,14 @@ export const perguntas = [
             afirmacao:[
                 "O modelo atual de seguridade social foi projetado para o emprego formal; o futuro exige a criação de 'portabilidade de benefícios' e contribuições que acompanhem o trabalhador em múltiplas formas de emprego e plataformas.",
             ],
-            proxima: 3,
+            proxima: 9,
         },
         {
             texto:"A eliminação total dos sistemas de aposentadoria por idade e a sua substituição imediata por um sistema baseado exclusivamente em poupança individual compulsória.",
             afirmacao:[
                 "Embora reformas sejam necessárias, a eliminação total e imediata dos pilares de solidariedade social é politicamente e socialmente insustentável na maioria dos países.",
             ],
-            proxima: 4,
+            proxima: 10,
         }
     ]
 },
