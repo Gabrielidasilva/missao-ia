@@ -57,7 +57,7 @@ export const perguntas = [
     ]
 },
 {
-    enunciado:"A transição global para uma economia de baixo carbono (economia verde) é vista como um caminho crucial para a sustentabilidade. Qual é o **principal risco social e econômico imediato** dessa transição para as economias baseadas em combustíveis fósseis?",
+    enunciado:"A transição global para uma economia de baixo carbono (economia verde) é vista como um caminho crucial para a sustentabilidade. Qual é o principal risco social e econômico imediato dessa transição para as economias baseadas em combustíveis fósseis?",
     alternativas:[
         {
             texto:"O aumento maciço do desemprego estrutural em regiões dependentes da extração e produção de combustíveis fósseis, sem uma requalificação de mão de obra e diversificação econômica imediatas (ativos encalhados).",
